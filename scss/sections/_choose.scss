@@ -1,0 +1,27 @@
+#choose{
+    padding-top: 150px;
+    align-items: center;
+    text-align: center;
+    
+    h1{
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 57px;
+    }
+
+    p{
+        font-size: 14px;
+        line-height:20px;
+        font-weight: 500;
+        align-items: center;
+        color: #737373;
+    }
+
+    .cards{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 20px;
+        padding: 20px;
+
+    }
+}

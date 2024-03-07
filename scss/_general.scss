@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    color: #252B42;
+
+}
+
+body{
+    font-family: var(--main-font);
+    font-weight: normal;
+    font-style: normal;
+    background: var(--bg-white-blue);
+}
+
+.container{
+    margin: 0 auto;
+    max-width:1250px;
+    padding: 0 20px;
+}

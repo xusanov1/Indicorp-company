@@ -1,0 +1,53 @@
+#practice{
+    padding-top: 150px;
+    align-items: center;
+    
+    h1{
+        text-align: center;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 57px;
+    }
+
+    .sub{
+        text-align: center;
+        font-size: 14px;
+        line-height:20px;
+        font-weight: 500;
+        align-items: center;
+        color: #737373;
+    }
+
+
+
+    .cards{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        padding: 20px;
+
+        .card{
+            padding: 20px 20px;
+            box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+
+        }
+
+        h5{
+            padding: 0 20px;
+            font-size: 16px;
+            line-height:24px;
+            font-weight: 700;
+        }
+
+        p{
+            padding: 10px 20px;
+            font-size: 14px;
+            line-height:20px;
+            font-weight: 500;
+            align-items: center;
+            color: #737373;
+        }
+
+        
+    }
+}
